@@ -1,0 +1,13 @@
+{
+    "extends": ["react-app", "@ackee/eslint-config", "prettier"],
+    "rules": {
+        "no-restricted-globals": "off"
+    },
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "paths": ["src"]
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "private": true,
+    "name": "tutify-microsite",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "build:prod": "GATSBY_ENV=production gatsby build",
+        "build:dev": "GATSBY_ENV=development gatsby build",
+        "develop": "gatsby develop",
+        "start": "gatsby develop",
+        "clean": "gatsby clean",
+        "serve": "gatsby serve",
+        "ci-lint": "exit 0",
+        "ci-circular-modules": "exit 0",
+        "ci-test": "exit 0"
+    },
+    "dependencies": {
+        "@lhci/cli": "^0.3.8",
+        "axios": "^0.19.2",
+        "eslint": "^6.8.0",
+        "eslint-config-ackee": "^0.9.2",
+        "eslint-config-prettier": "^6.15.0",
+        "fela-sort-media-query-mobile-first": "^11.2.0",
+        "gatsby": "^2.23.12",
+        "gatsby-image": "^2.2.43",
+        "gatsby-plugin-advanced-sitemap": "^1.5.2",
+        "gatsby-plugin-canonical-urls": "^2.3.10",
+        "gatsby-plugin-hotjar-tracking": "^1.1.0",
+        "gatsby-plugin-google-analytics": "^2.2.2",
+        "gatsby-plugin-portal": "^1.0.7",
+        "gatsby-plugin-intl": "^0.2.8",
+        "gatsby-plugin-react-helmet": "^3.0.12",
+        "gatsby-plugin-robots-txt": "^1.5.0",
+        "gatsby-source-filesystem": "latest",
+        "gatsby-plugin-sharp": "^2.4.11",
+        "gatsby-theme-fela": "^0.4.0",
+        "gatsby-transformer-sharp": "^2.3.18",
+        "intl": "^1.2.5",
+        "react": "^16.12.0",
+        "react-dat-gui": "^4.0.3",
+        "react-dom": "^16.12.0",
+        "react-helmet": "^6.1.0",
+        "react-intl": "^3.12.0",
+        "react-lazyload": "^2.6.7",
+        "react-transition-group": "^4.3.0"
+    },
+    "devDependencies": {
+        "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.8"
+    }
+}

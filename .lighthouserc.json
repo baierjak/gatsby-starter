@@ -1,0 +1,17 @@
+{
+    "ci": {
+        "assert": {
+            "assertions": {
+                "offscreen-images": "off"
+            }
+        },
+        "collect": {
+            "numberOfRuns": 2
+        },
+        "upload": {
+            "target": "lhci",
+            "serverBaseUrl": "https://ackee:averylargeandobfuscatedpasswordphrasewhichisnothingalikemuchhardmuchackee@lhci.ack.ee/",
+            "token": "d0d956f3-b34f-49cb-b55f-80599a03777a"
+        }
+    }
+}
