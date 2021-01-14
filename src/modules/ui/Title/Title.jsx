@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import TitleTypes, { htmlTagFromTitleSize } from './Title.sizes';
+import TitleTypes, {htmlTagFromTitleSize} from './Title.sizes';
 
-const Title = ({ children, type, as, styles }) => {
-    return React.createElement(htmlTagFromTitleSize(as), { className: styles.title }, children);
+const Title = ({children, type, as, styles}) => {
+    return React.createElement(htmlTagFromTitleSize(as), {className: styles.title}, children);
 };
 
 Title.propTypes = {
