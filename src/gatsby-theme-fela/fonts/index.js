@@ -4,6 +4,7 @@ import SpaceMonoItalic from "./SpaceMono-Italic.ttf"
 import SpaceMonoBoldItalic from "./SpaceMono-BoldItalic.ttf"
 import GreycliffBold from "./greycliffcf-bold-webfont.ttf"
 import GreycliffMedium from "./greycliffcf-medium-webfont.ttf"
+import RubikMedium from "./Rubik-Medium.ttf"
 
 export default [
   {
@@ -59,5 +60,14 @@ export default [
       fontWeight: "500",
       fontDisplay: "swap",
     },
+  },
+  {
+    name: "Rubik",
+    files: [RubikMedium],
+    options: {
+      fontStyle: "normal",
+      fontWeight: "500",
+      fontDisplay: "swap"
+    }
   },
 ]

@@ -20,6 +20,11 @@ export default {
                 'Greycliff, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu,Cantarell, "Helvetica Neue", sans-serif',
             fontWeight: '400',
         },
+        rubikMedium: {
+            fontFamily:
+                'Rubik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu,Cantarell, "Helvetica Neue", sans-serif',
+            fontWeight: "500"
+        }
     },
     colors: {
         black: '#000',
@@ -28,7 +33,7 @@ export default {
         cyan: '#00FFFF',
         fuchsia: '#FF00FF',
         grey: '#f2f2f2',
-        dividerGrey: '#ccc',
+        dividerGrey: "#d8d8d8",
         darkerGrey: '#c5c5c5',
         darkGrey: '#A0A0A0',
         darkBlue: '#000016',
@@ -38,6 +43,8 @@ export default {
         sectionTitleGrey: '#939393',
         red: '#fa3232',
         green: '#29d657',
+        brandBlue: "#46bfff",
+        brandLightBlue: "#ebf8ff"
     },
     dimensions: {
         containerMaxWidth: '90em',
