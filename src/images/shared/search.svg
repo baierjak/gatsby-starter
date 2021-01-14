@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="inputs/search/enabled" transform="translate(-24.000000, -21.000000)" fill="#000000">
+            <g id="Group-3" transform="translate(24.000000, 21.000000)">
+                <path d="M22.4141,19.5859 L18.3401,15.5119 C19.3871,13.9319 20.0001,12.0379 20.0001,9.9999 C20.0001,4.4779 15.5231,-0.0001 10.0001,-0.0001 C4.4771,-0.0001 0.0001,4.4779 0.0001,9.9999 C0.0001,15.5229 4.4771,19.9999 10.0001,19.9999 C12.0381,19.9999 13.9311,19.3869 15.5121,18.3399 L19.5861,22.4139 C19.9761,22.8049 20.4881,22.9999 21.0001,22.9999 C21.5121,22.9999 22.0241,22.8049 22.4141,22.4139 C23.1951,21.6329 23.1951,20.3669 22.4141,19.5859" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

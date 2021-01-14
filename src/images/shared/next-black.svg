@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>next-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.000544818859 15.85 0.000544818859 15.85 17.7623215 0 17.7623215"></polygon>
+    </defs>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage" transform="translate(-632.000000, -1560.000000)">
+            <g id="ic/next" transform="translate(632.000000, 1560.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M0,2.003 L0,15.76 C0,17.301 1.671,18.263 3.004,17.489 L14.854,10.611 C16.183,9.84 16.183,7.922 14.854,7.152 L3.004,0.274 C1.671,-0.5 0,0.461 0,2.003" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
