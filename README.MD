@@ -1,4 +1,4 @@
-# Tutify app
+# Gatsby fela starter app
 
 ## Install the application
 
