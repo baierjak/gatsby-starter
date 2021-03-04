@@ -1,4 +1,4 @@
-import { connect as connectFela } from 'react-fela';
+import {connect as connectFela} from 'react-fela';
 import Container from './Container';
 import * as styles from './Container.styles';
 

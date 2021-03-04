@@ -41,5 +41,27 @@ module.exports = {
                 head: false,
             },
         },
+        // @TODO: Remove after resolving asset import issue
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: "assets",
+                path: `${__dirname}/static/`,
+            },
+        },
+        {
+            resolve: `gatsby-source-wordpress`,
+            options: {
+                baseUrl: `ackeegatsbydemo.wordpress.com`,
+                protocol: `http`,
+                // Indicates if a site is hosted on WordPress.com:
+                hostingWPCOM: true,
+                includedRoutes: [
+                    '**/posts',
+                    '**/tags',
+                    '**/categories'
+                ]
+            }
+        }
     ],
 }

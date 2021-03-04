@@ -1,11 +1,9 @@
-import { React, PropTypes, FormattedMessage } from "../dependencies"
+import {React, PropTypes} from "../dependencies"
 
-const Container = ({ styles }) => {
+const Container = ({styles, children}) => {
     return (
         <div className={styles.main}>
-            <h1 className={styles.title}>
-                <FormattedMessage id="homepage.title" />
-            </h1>
+            {children}
         </div>
     )
 }
@@ -14,6 +12,7 @@ Container.propTypes = {
     styles: PropTypes.shape({
         main: PropTypes.string.isRequired,
     }).isRequired,
+    children: PropTypes.node.isRequired
 }
 
 export default Container

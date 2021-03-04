@@ -10,6 +10,8 @@ const namedKeys = {
     tabletMax: '@media (max-width: 1023px)',
 
     tabletLarge: '@media (min-width: 1024px)',
+
+    mobileMax: "@media (max-width: 767px)"
 };
 
 export default namedKeys;

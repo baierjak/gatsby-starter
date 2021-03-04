@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>back-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0001 0 10.9996 0 10.9996 15.9999425 0.0001 15.9999425"></polygon>
+    </defs>
+    <g id="back-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prev-black" transform="translate(6.000000, 4.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M7.6826,0.4834 L0.7276,6.4114 C-0.2424,7.2374 -0.2424,8.7624 0.7276,9.5884 L7.6826,15.5164 C8.9996,16.6394 10.9996,15.6814 10.9996,13.9264 L10.9996,2.0734 C10.9996,0.3184 8.9996,-0.6396 7.6826,0.4834" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
